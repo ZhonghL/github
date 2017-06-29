@@ -18,10 +18,10 @@ git reset --hard HEAD^	/back to the current release
 git reset --hard commit_id	/go the commit_id file release
 
 git checkout -- [file]	/discard all the operating in work directory
-git rm [file]	/delee the file from release library
+git rm [file]	/delet the file from release library
 
 
-learn the git system by the blog of Liaoxuefeng
+learn the git system by the blog of Liaoxuefeng (www.liaoxuefeng.com)
 great!
 
 
